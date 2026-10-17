@@ -1,0 +1,10 @@
+PURA RUTA - versión independiente
+
+Para publicarla en GitHub Pages:
+1. Crea un repositorio nuevo (por ejemplo "pura-ruta") o una carpeta nueva en uno que ya tengas.
+2. Sube TODOS estos archivos juntos: index.html, manifest.webmanifest, sw.js, icon-192.png, icon-512.png, icon-maskable-512.png.
+3. En Settings > Pages, elige la rama main y guarda.
+4. Abre el enlace en Chrome del teléfono y toca "Agregar a la pantalla de inicio" (o "Instalar app").
+
+Funciona sin internet. Los datos se guardan en el teléfono: usa "Descargar copia de seguridad" en la pestaña Datos de vez en cuando.
+Para actualizar la app, vuelve a subir index.html y sw.js.
