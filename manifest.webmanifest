@@ -1,7 +1,7 @@
 {
  "id": "/PuraRuta/app",
- "name": "Pura Ruta",
- "short_name": "Pura Ruta",
+ "name": "Yoyi Express",
+ "short_name": "Yoyi Express",
  "description": "Viajes, cobros y moto del servicio express",
  "start_url": "./",
  "scope": "./",
